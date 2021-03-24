@@ -7,6 +7,8 @@
 
 2️⃣ Crear e implementar un sistema de información web CRM TOOLS con la capacidad de suministrar, almacenar y verificar información en tiempo real, para la optimización de datos con el fin de aligerar los procesos internos dependiendo de la necesidad del área de Seguridad y control riesgo de la empresa Cruz verde.
 
+   
+
 
 ## Comenzando 🚀
 
