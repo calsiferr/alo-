@@ -6,7 +6,8 @@
 1️⃣ En la empresa cruz verde se evidencia que el área de investigación y seguridad física, no cuenta con un manejo de información indicado, puesto que a la hora de generar, validar y gestionar la información; no es clara ya que se maneja de forma manual y esto implica qué, los empleados se demoren en sus tareas. Dado a que a la hora de la ejecución de un informe se incumplen los tiempos de entrega. 
 
 2️⃣ Crear e implementar un sistema de información web CRM TOOLS con la capacidad de suministrar, almacenar y verificar información en tiempo real, para la optimización de datos con el fin de aligerar los procesos internos dependiendo de la necesidad del área de Seguridad y control riesgo de la empresa Cruz verde.
-
+                       
+                                                      #OBJETIVOS ESPECIFICOS
    
 
 
