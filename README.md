@@ -1,7 +1,7 @@
 
-❌❌❌❌Bienvenidos al cosito este que nos pidio el profe❌❌❌❌
+                                                    ❌❌❌❌Bienvenidos al cosito este que nos pidio el profe❌❌❌❌
 
-                     ❄️❄️❄️CRM TOOLS❄️❄️❄️
+                                                                          ❄️❄️❄️CRM TOOLS❄️❄️❄️
 
 1️⃣ En la empresa cruz verde se evidencia que el área de investigación y seguridad física, no cuenta con un manejo de información indicado, puesto que a la hora de generar, validar y gestionar la información; no es clara ya que se maneja de forma manual y esto implica qué, los empleados se demoren en sus tareas. Dado a que a la hora de la ejecución de un informe se incumplen los tiempos de entrega. 
 
